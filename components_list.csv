@@ -1,0 +1,20 @@
+Component Name,Specifications
+ESP32-S3 Dev Module,Wi-Fi & BLE microcontroller
+MQ-135 Gas Sensor,"Air quality monitoring, detects CO2, NH3, alcohol, benzene"
+Sound Sensor Module,Microphone-based sound level detection
+OLED Display,"0.96-inch, I2C interface, 128x64 resolution"
+BME280 Environmental Sensor,"Temperature, humidity, and pressure sensor"
+Solar Panel,"Renewable power source, typically 5V output"
+Rechargeable Module (TP4056),Lithium battery charging module
+IR Flame Sensor,Infrared-based fire detection sensor
+Battery 3.7V 2500mAh 18560,Rechargeable Li-ion battery
+Voltage Booster,Boosts voltage for stable power supply
+Dust Sensor,PM2.5 and PM10 air quality monitoring
+Hall Effect Sensor,"Detects magnetic fields, used for speed and proximity sensing"
+MAX471 Current and Voltage Sensor,Measures current and voltage for power monitoring
+Water Flow Sensor,Measures fluid flow rate in pipes
+DHT11 Temperature and Humidity Sensor,Basic temperature and humidity sensor
+Soil Moisture Sensor,Detects moisture levels in soil
+Relay Module,Electromechanical switch for high-power applications
+Rain Sensor,Detects rainwater presence
+RTC DS3231 Module,Real-time clock module with battery backup
